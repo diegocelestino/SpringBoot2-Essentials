@@ -1,0 +1,4 @@
+Controller -> classe simples onde ficam os end points
+Domain -> representa o que há no banco de dados
+Repository -> a conexão com o banco de dados
+Service -> onde fica a lógica de negócio
