@@ -44,4 +44,5 @@ public class AnimeService {
                 .build();
         animeRepository.save(anime);
     }
+    
 }
